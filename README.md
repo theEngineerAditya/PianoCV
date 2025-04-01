@@ -6,8 +6,11 @@ This project is a Python-based application that uses computer vision and MIDI to
 
 Features
 -Hand Tracking: Detects hands and tracks finger positions using OpenCV and the CVZone HandTrackingModule.
+
 -MIDI Integration: Plays chords in real-time based on finger gestures using Pygame MIDI.
+
 -Chord Mapping: Each finger is associated with a chord from the D Major scale.
+
 -Sustain Effect: Chords sustain for a specified time after the finger is lowered.
 
 Requirements:
