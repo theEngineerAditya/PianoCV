@@ -1,0 +1,27 @@
+Left Hand
+Thumb: Plays the D Major chord (notes: D, F#, A).
+
+Index Finger: Plays the E Minor chord (notes: E, G, B).
+
+Middle Finger: Plays the F# Minor chord (notes: F#, A, C#).
+
+Ring Finger: Plays the G Major chord (notes: G, B, D).
+
+Pinky Finger: Plays the A Major chord (notes: A, C#, E).
+
+
+
+Right Hand
+Thumb: Plays the D Major chord (notes: D, F#, A).
+
+Index Finger: Plays the E Minor chord (notes: E, G, B).
+
+Middle Finger: Plays the F# Minor chord (notes: F#, A, C#).
+
+Ring Finger: Plays the G Major chord (notes: G, B, D).
+
+Pinky Finger: Plays the A Major chord (notes: A, C#, E).
+
+
+
+
